@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "built/index.js",
+  "main": "built/server.js",
   "scripts": {
-    "start": "node built/index.js",
+    "start": "node built/server.js",
     "build": "tsc"
   },
   "keywords": [],
@@ -15,7 +15,7 @@
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
-    "express": "^4.18.1",
+    "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
     "mongoose": "^6.7.0",
     "typescript": "^4.8.4"
