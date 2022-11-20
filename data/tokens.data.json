@@ -1,0 +1,724 @@
+[{
+    "socialLinks": {
+        "telegram": "https://t.me/BankSocial",
+        "twitter": "https://twitter.com/BANKSOCIALio",
+        "website": "https://www.banksocial.io/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true
+    },
+    "kyc": false,
+    "currency": {
+        "symbol": "$BSL",
+        "name": "Bank Social"
+    },
+    "trustLevel": "Level 3",
+    "deployedDate": "2021-10-01",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+    "logo": "https://spywolf.network/assets/project/logo/banksocial.png",
+    "AMADate": "2022-01-07",
+    "votes": 15,
+    "royalProofAudit": {
+        "certificateOfTrustURL": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/99844844277068474025626073867816441448450620712689519536016720659450041466881",
+        "certificateOfTrustGif": "https://spywolf.network/assets/nft/banksocial_level3.gif"
+    },
+    "releaseDate": "2021-10-01",
+    "savingTime": "2021-12-15T16:40:50.187Z",
+    "tag": "TRUSTED",
+    "description": "BankSocial is your gateway to a full range of banking services using blockchain technology available globally.",
+    "AMALink": "https://www.youtube.com/watch?v=cM5LF193sVw&t=49s"
+}, {
+    "socialLinks": {
+        "website": "https://eagleeyetoken.com/",
+        "twitter": "https://twitter.com/EagleEye_Token",
+        "telegram": "https://t.me/EagleEye_Token"
+    },
+    "kyc": false,
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "currency": {
+        "symbol": "$EagleEye",
+        "name": "EagleEye"
+    },
+    "trustLevel": "Level 2",
+    "deployedDate": "2021-11-21",
+    "approvalStatus": "PENDING",
+    "address": "0x4e6a510659d3d0F6897bbab3Db67DA0B3d001fB7",
+    "logo": "https://spywolf.network/assets/project/logo/eagleeye.png",
+    "votes": 7,
+    "releaseDate": "2021-11-21",
+    "savingTime": "2021-12-15T16:40:50.187Z",
+    "tag": "TRUSTED",
+    "description": "EagleEye’s web-based decentralized application provides a simple way to claim rewards. EagleEye Token holders choose to receive either BNB or a token of their choice – or they may compound their rewards to increase their EagleEye holdings. Compounded rewards are not subject to EagleEye’s buy tax. Claiming promotional partnership tokens as a reward also provides a variety of advantages."
+}, {
+    "currency": {
+        "symbol": "$EverETH",
+        "name": "EverETH"
+    },
+    "kyc": false,
+    "socialLinks": {
+        "telegram": "https://t.me/EverETHOfficial",
+        "twitter": "https://twitter.com/EverETHofficial",
+        "website": "https://www.evereth.net/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true
+    },
+    "trustLevel": "Level 2",
+    "deployedDate": "2021-08-21",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0x16dCc0eC78E91e868DCa64bE86aeC62bf7C61037",
+    "logo": "https://spywolf.network/assets/project/logo/evereth.png",
+    "votes": 5,
+    "royalProofAudit": {
+        "certificateOfTrustURL": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/99844844277068474025626073867816441448450620712689519536016720647355413561345",
+        "certificateOfTrustGif": "https://spywolf.network/assets/nft/evereth.gif"
+    },
+    "releaseDate": "2021-08-21",
+    "OtherCompanyAudit": {
+        "auditDate": "ongoing",
+        "auditLink": "https://www.certik.com/projects/ever-eth",
+        "companyName": "CERTIK"
+    },
+    "savingTime": "2021-12-15T16:40:50.187Z",
+    "tag": "TRUSTED",
+    "description": "HOLD EVERETH EARN ETHEREUM - The fastest and easiest way to earn Ethereum in a fully decentralised ecosystem."
+}, {
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true,
+        "kyc": false
+    },
+    "kyc": false,
+    "currency": {
+        "symbol": "$POOR",
+        "name": "Poor QUACK"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/PoorQuack",
+        "twitter": "https://twitter.com/PoorQuack",
+        "website": "https://poorquack.com/"
+    },
+    "approvalStatus": "PENDING",
+    "status": "LAUNCHED",
+    "address": "0x96f29330bace95ea569928a8d74e6b1b49283edb",
+    "logo": "https://spywolf.network/assets/project/logo/poorquack.png",
+    "AMADate": "2022-03-09T18:00:00.000Z",
+    "votes": 13,
+    "level": "level 2",
+    "releaseDate": "2021-12-11",
+    "isFairlaunch": true,
+    "savingTime": "2022-02-20T10:40:08.576Z",
+    "OtherCompanyAudit": {
+        "auditLink": "https://github.com/SpyWolfNetwork/Smart_Contract_Audits/blob/main/March/PoorQuack_0x96f29330BACe95eA569928A8D74E6b1b49283edb.pdf",
+        "companyName": "RoyalProof"
+    },
+    "tag": "TRUSTED",
+    "description": "The Ultimate Meme With Many Utilities - A Full Ecosystem with Useful Tools",
+    "scamReason": ["Not Audited"]
+}, {
+    "currency": {
+        "symbol": "$RHYTHM",
+        "name": "RHYTHM"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/RhythmBSC",
+        "twitter": "https://twitter.com/RhythmBSC",
+        "website": "https://rhythm.cash/"
+    },
+    "kyc": false,
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true
+    },
+    "trustLevel": "Level 3",
+    "deployedDate": "2021-06-03",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0xE4318F2aCf2b9c3f518A3a03B5412F4999970Ddb",
+    "discord": "https://discord.com/invite/GhmWjY9",
+    "logo": "https://spywolf.network/assets/project/logo/rhythm.png",
+    "votes": 3,
+    "royalProofAudit": {
+        "certificateOfTrustURL": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/99844844277068474025626073867816441448450620712689519536016720658350529839105",
+        "certificateOfTrustGif": "https://spywolf.network/assets/nft/rhythm_level3.gif"
+    },
+    "releaseDate": "2021-06-03",
+    "OtherCompanyAudit": {
+        "auditDate": "2021-07-18",
+        "auditLink": "https://github.com/TechRate/Smart-Contract-Audits/blob/main/August/Rhythm%20Full%20Smart%20Contract%20Security%20Audit.pdf",
+        "companyName": "TechRate"
+    },
+    "savingTime": "2021-12-15T16:40:50.187Z",
+    "tag": "TRUSTED",
+    "description": "$RHYTHM will be integrated into Rhythm as the platform's currency, powering our premium service, NFT albums, singles, playlists, and pins, and will offer wallet perks such as free premium to Gold Tier wallet holders."
+}, {
+    "currency": {
+        "symbol": "$BITSU",
+        "name": "Bitsubishi"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/Bitsubishi",
+        "twitter": "https://twitter.com/Bitsubishi",
+        "website": "https://bitsubishi.net"
+    },
+    "category": {
+        "isScam": true,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "kyc": false,
+    "scamReasonTooltip": "DISABLED SELLING",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0x732cC1642905af1B7c394c0812Dbc4779cBF2b2d",
+    "logo": "https://spywolf.network/assets/project/logo/krakenrise.png",
+    "votes": 11,
+    "scamDate": "2022-05-20",
+    "savingTime": "2022-05-20T23:07:39.907Z",
+    "tag": "SCAM",
+    "description": "DISABLED SELLING",
+    "scamReason": ["Honeypot"]
+}, {
+    "currency": {
+        "symbol": "$BRG.X",
+        "name": "Bridge$"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/BRIDGEcryptocurrency",
+        "twitter": "https://twitter.com/BridgesDeFi",
+        "website": "https://bridges.exchange"
+    },
+    "category": {
+        "isScam": true,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "scamReasonTooltip": "This project is claiming to be bringing a new safer DEX to market. Currently they have roughly 1.15% Liquidity at a market cap of $19million. Price impact of a 0.25% wallet selling off is right at 20% one of their max wallets is just under 50% - To make things worse, there are plans to REMOVE 22% or MORE from the liquidity to fund their DEX. They are requesting that their investors provide liquidity to support their platform. \n\nAdditionally, their reflections are disabled by default on new buyers. You have to navigate to their dashboard to be eligible for pennies. \n\nThey have no KYC on file stating they would do it once they reached a $50million market cap, which according to their chart they did in January. Still no KYC completed. The charity wallet has made $0 charitable contributions since the project launch. Following transactions around out of the developer wallet I was able to identify nearly a dozen wallets they use to \"wash\" the funds. \n\nI've been watching this one for several months, and despite months and millions of dollars of trade volume, their LP ratio has continued to nose dive. ",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0x0e2114955023B736fa97D9E2FCDe2836d10b7A5C",
+    "logo": "https://bscscan.com/token/images/bridge_32.png",
+    "votes": 15,
+    "scamDate": "2022-05-12",
+    "savingTime": "2022-05-12T19:35:57.719Z",
+    "tag": "SCAM",
+    "description": "This project is claiming to be bringing a new safer DEX to market. Currently they have roughly 1.15% Liquidity at a market cap of $19million. Price impact of a 0.25% wallet selling off is right at 20% one of their max wallets is just under 50% - To make things worse, there are plans to REMOVE 22% or MORE from the liquidity to fund their DEX. They are requesting that their investors provide liquidity to support their platform. \n\nAdditionally, their reflections are disabled by default on new buyers. You have to navigate to their dashboard to be eligible for pennies. \n\nThey have no KYC on file stating they would do it once they reached a $50million market cap, which according to their chart they did in January. Still no KYC completed. The charity wallet has made $0 charitable contributions since the project launch. Following transactions around out of the developer wallet I was able to identify nearly a dozen wallets they use to \"wash\" the funds. \n\nI've been watching this one for several months, and despite months and millions of dollars of trade volume, their LP ratio has continued to nose dive. ",
+    "scamReason": ["Slow Rug"]
+}, {
+    "currency": {
+        "symbol": "$JST",
+        "name": "Jump Satoshi Token"
+    },
+    "kyc": false,
+    "socialLinks": {
+        "telegram": "https://t.me/JUMPNofficialGroup",
+        "twitter": "https://twitter.com/JUMPNofficial",
+        "website": "https://jumpn.today/"
+    },
+    "category": {
+        "isScam": true,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "scamReasonTooltip": "Same scam method that squid used last year where you'd buy a second token to sell the first one in a certain ratio that has been calculated to be a loss on both tokens if you ever sell.",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0xEE6cacDDd3A9370d87dB581EE6728226883578e5",
+    "logo": "https://spywolf.network/assets/project/logo/jumpn.png",
+    "votes": 11,
+    "scamDate": "2022-04-27",
+    "savingTime": "2022-04-28T07:03:00.709Z",
+    "tag": "SCAM",
+    "description": "JUMPN is a web3 lifestyle app that implements the jump-to-earn concept.",
+    "scamReason": ["Honeypot"]
+}, {
+    "currency": {
+        "symbol": "$XXX",
+        "name": "XXXDollar"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/PORNNFT",
+        "twitter": "https://twitter.com/skynet_money?s=21",
+        "website": ""
+    },
+    "kyc": false,
+    "category": {
+        "isScam": true,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "scamReasonTooltip": "These guys have released about five tokens every single one of them pump and dump and fake ownership renounce",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0x42684a9B203bAbADF4A1e361B20711Cc48545e49",
+    "logo": "https://spywolf.network/assets/project/logo/pornnft.png",
+    "votes": 11,
+    "scamDate": "2022-03-15",
+    "savingTime": "2022-03-15T15:28:25.831Z",
+    "tag": "SCAM",
+    "description": "I want to introduce you all to our main token. It gives BUSD rewards simply for holding the token. No need to stake plus all other coins in our ecosystem get rewards in this token so they also get busd but every buy and sell on all other tokens on our listing site and exchange will trigger a buy on EUSD. We will start marketing it now but the groups always have first option to buy ",
+    "scamReason": ["Fake Ownership Renounce"]
+}, {
+    "currency": {
+        "symbol": "$BAO",
+        "name": "DAOBAO"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/DAOBAOFinance",
+        "website": "https://daobao.tech/"
+    },
+    "category": {
+        "isScam": true,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "kyc": false,
+    "scamReasonTooltip": "They have blacklisted sells and  any possible sale may be cashed out by dev. No one is giving an explanation",
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0x21982F0A78e8248f7318Aa7DD6c19dAac9018ECb",
+    "logo": "https://spywolf.network/assets/project/logo/daobao.png",
+    "votes": 2,
+    "scamDate": "2022-03-13",
+    "savingTime": "2022-03-14T01:25:55.981Z",
+    "tag": "SCAM",
+    "description": "DAOBAO Official 🇺🇸 English DAOBAO Token is an elastic token embedded with a positive rebase formula, that allows $BAO holders earn staking rewards every 30 minutes just by holding the token.",
+    "scamReason": ["Slow Rug"]
+}, {
+    "currency": {
+        "symbol": "$GOLD",
+        "name": "Get Schiffy Gold"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/getschiffy",
+        "twitter": "https://twitter.com/getschiffy",
+        "website": "https://getschiffy.com/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": true,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "kyc": false,
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/launchpad/0xC1E4B9Ee20d911797AA7507f7711054c26F9786c?chain=BSC",
+        "presaleDate": "2022-07-07",
+        "softcap": "100",
+        "hardcap": "200"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0x194460B46315D4C61F52E5100560E62EB958D182",
+    "logo": "https://spywolf.network/assets/project/logo/getschiffy.png",
+    "votes": 11,
+    "releaseDate": "2022-07-07",
+    "savingTime": "2022-06-02T10:09:09.044Z",
+    "tag": "UNVERIFIED",
+    "description": "Play 2 Earn, 2D run game. The game is based on the Peter Schiff Bitcoin storyline. Schiffy runs across the cities of the world collecting Gold while avoiding the Bitcoin. Created in a way to put the user in a state of tranquility to ultimately enjoy the experience. This has everything it takes to go viral and be one of biggest games on the planet. Fully Doxed. NFTs are available now and will have ongoing token generating revenue for Get Schiffy among other opportunity's.\n",
+    "scamReason": ["Not Audited"]
+}, {
+    "currency": {
+        "symbol": "$BET",
+        "name": "Beetle Token"
+    },
+    "socialLinks": {
+        "telegram": "http://t.me/BeetleMoon",
+        "twitter": "https://twitter.com/Beetle_Swap",
+        "website": "https://www.beetle.wiki/"
+    },
+    "kyc": false,
+    "category": {
+        "isScam": false,
+        "isPotencialScam": true,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/launchpad/0x899E3C46FA5b70d63450Bc1C454A5D8b8AdDaD9D?chain=BSC",
+        "presaleDate": "2022-06-21",
+        "softcap": "1250",
+        "hardcap": "2500"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0x54E8a57b3C81d0c90C85BD337be7909FF3E7a120",
+    "logo": "https://spywolf.network/assets/project/logo/beetle.png",
+    "votes": 11,
+    "releaseDate": "2022-06-21",
+    "savingTime": "2022-05-23T12:55:17.307Z",
+    "tag": "UNVERIFIED",
+    "description": "Beetle is a revolutionary and community-driven blockchain ecosystem with NFT technology at its core. BET tokens have a 7% transaction tax. 5% of all transactions are awarded to all holders, 1% will go to the liquidity pool and 1% will go to our development wallet. We have made it clear that Beetle is a community-based ecosystem that facilitates redistribution and ownership by dedicated holders and supporters of the platform.",
+    "scamReason": ["Not Audited"]
+}, {
+    "currency": {
+        "symbol": "$CHG",
+        "name": "CryptoHub Games"
+    },
+    "kyc": false,
+    "socialLinks": {
+        "telegram": "https://t.me/CryptoHubGames",
+        "twitter": "https://twitter.com/CryptoHubGames",
+        "website": "https://cryptohub.games/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": true,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/launchpad/0xC8d7345897e5C0dA9424ab85f5FEC1852ba0bd6F?chain=BSC",
+        "presaleDate": "2022-06-15",
+        "softcap": "150",
+        "hardcap": "300"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0x9955fD2DE56cF1f4fDBff8638B3937e49b4252F1",
+    "logo": "https://spywolf.network/assets/project/logo/cryptohub.png",
+    "votes": 11,
+    "releaseDate": "2022-06-15",
+    "savingTime": "2022-06-09T04:55:21.033Z",
+    "tag": "UNVERIFIED",
+    "description": "🚀CryptoHub Games is the first dedicated GameFi marketplace serving as the HUB for the crypto gaming audience 💎Gamers can trade NFTs and developers will list & promote their games 🚀Marketplace is backed by 2 game releases annually 🎖Our mission is to create a rug-free and safe marketplace and make fun games ✅Project at 80% Completion ✅Standard CHG Token with No Tax ✅Project Demo on the Website ✅Governance with Community Voting ✅Profit Sharing ✅Self-Sustaining Economy ✅Trading & Virtual Products Income",
+    "scamReason": ["Not Audited"]
+}, {
+    "currency": {
+        "symbol": "$RNX",
+        "name": "Run X"
+    },
+    "kyc": false,
+    "socialLinks": {
+        "telegram": "0x36B314b562806cb3C35Bd12187386Da055808A43",
+        "twitter": "0x36B314b562806cb3C35Bd12187386Da055808A43",
+        "website": "https://runxapp.xyz/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": true,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/launchpad/0xE15Fa04cd31781542B9FF6003160D4F314A8faC9?chain=BSC",
+        "presaleDate": "2022-06-15",
+        "softcap": "450",
+        "hardcap": "900"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0x36B314b562806cb3C35Bd12187386Da055808A43",
+    "logo": "https://spywolf.network/assets/project/logo/runx.png",
+    "votes": 11,
+    "releaseDate": "2022-06-15",
+    "savingTime": "2022-06-12T07:40:30.979Z",
+    "tag": "UNVERIFIED",
+    "description": "SPYWOLF INPUT\n\n👟Run X first metaverse Move 2 Earn, Count 2 Earn, and Read 2 Earn App in which users stay healthy and fit with free earnable money 💥Gate io, Mexc Global, Coinstore, and Coinsbit are Already Our Partnered. ✅ Contract Fully Audited by TechRate And Team Fully Doxxed & KYC Verified BY Coinmarketcap Liquidity locked for 2 years 🔒",
+    "scamReason": ["Not Audited"]
+}, {
+    "currency": {
+        "symbol": "$DOGEFUU",
+        "name": "DogeFuu"
+    },
+    "kyc": false,
+    "socialLinks": {
+        "telegram": "https://t.me/DogeFuuGroup",
+        "twitter": "https://twitter.com/Dogefuu_",
+        "website": "https://dogefuu.com/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": true,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/launchpad/0xD11875d287C1619424e611BCB8177A222780A20F?chain=BSC",
+        "presaleDate": "2022-06-14",
+        "softcap": "100",
+        "hardcap": "0"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0x485587DfFe339f512fdef3C312FA8507D9983E11",
+    "logo": "https://spywolf.network/assets/project/logo/dogefuu.png",
+    "votes": 32,
+    "releaseDate": "2022-06-14",
+    "savingTime": "2022-06-09T08:52:58.703Z",
+    "tag": "UNVERIFIED",
+    "description": "DOGEFUU is the first DeFi Auto-Staking Protocol applies Referral Marketing and Anti-Dump with APY 325,000%. ✅ Anti-Dump Mechanism: Keep your investment safe by fixing LockPay flaws: Sell and transfer up to 3% a day. ✅ Referral Marketing: Always get new investors with a referral bonus of up to 20%. ✅ Selling Tax - Saving on Reflections. ✅ No team token, 100% token lock. ✅ Insurance Fund: Keep $DogeFuu token price exceeds the TGE price by 10%.",
+    "scamReason": ["Not Audited"]
+}, {
+    "currency": {
+        "symbol": "$UP",
+        "name": "StackUp"
+    },
+    "kyc": false,
+    "socialLinks": {
+        "telegram": "https://t.me/stackupofficial",
+        "twitter": "https://twitter.com/stackupprotocol",
+        "website": "https://stackup.finance/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": true,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/launchpad/0xe5022Ee743C0DEC51122F9624275Ebac7Ec4E1FD?chain=BSC",
+        "presaleDate": "2022-06-13",
+        "softcap": "100",
+        "hardcap": "0"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0xBF085B601A4B4D7104Ae1D4abDD07099e72c3460",
+    "logo": "https://spywolf.network/assets/project/logo/stackup.png",
+    "votes": 11,
+    "releaseDate": "2022-06-13",
+    "savingTime": "2022-06-04T22:43:10.413Z",
+    "tag": "UNVERIFIED",
+    "description": "💎The safest Auto-Staking token on the BSC that rewards users with a sustainable fixed APY of 361,404%, compounding daily. 🔒Anti-Dump Mechanism to keep your investment safe! 👥Team will be KYC'd with spywolf and contract will be Audited by Techaudit 🔥$UP is a hold to earn token!",
+    "scamReason": ["Not Audited"]
+}, {
+    "currency": {
+        "symbol": "$EVERBNB",
+        "name": "EverBNB"
+    },
+    "kyc": false,
+    "socialLinks": {
+        "telegram": "https://t.me/EverBNBBsc",
+        "twitter": "https://twitter.com/EverBNBBsc",
+        "website": "https://everbnb.net/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true,
+        "kyc": false
+    },
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0xB87Bc0fF5Dd585A93c44D8511d876933e4233707",
+    "logo": "https://spywolf.network/assets/project/logo/everbnb.png",
+    "votes": 0,
+    "releaseDate": "2021-12-09",
+    "OtherCompanyAudit": {
+        "auditLink": "https://github.com/SpyWolfNetwork/Smart_Contract_Audits/blob/main/December/EverBNB.pdf",
+        "companyName": "RoyalProof"
+    },
+    "tag": "VERIFIED",
+    "description": "EverBNB is one the BNB reflection token running on Binance Smart Chain. Simply hold tokens and get rewarded in BNB on every transaction. With the auto-claim feature, you will receive BNB automatically in your wallet."
+}, {
+    "currency": {
+        "symbol": "$SHIBD",
+        "name": "Shiba Inu Dollar"
+    },
+    "kyc": true,
+    "socialLinks": {
+        "telegram": "https://t.me/ShibaInuDollar",
+        "twitter": "https://twitter.com/ShibaInuDollar?s=20",
+        "website": "https://www.shibainudollars.com"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true
+    },
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/#/launchpad/0x316aB9fcdF9280Fe261fa2acb31D8EB0dD9E4860?chain=BSC",
+        "presaleDate": "2021-12-27",
+        "softcap": "50 BNB",
+        "hardcap": "100 BNB"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0xBbDc3B89777a172EE216e758Fc3B7E6885cA02F4",
+    "logo": "https://ipfs.infura.io/ipfs/QmYiZGJiSuSbYaCqJGb2xrt5fN65b6pRBkzJRWmfcMKThQ",
+    "votes": 1,
+    "releaseDate": "2021-12-28",
+    "tag": "VERIFIED",
+    "description": "Shiba Inu Dollar is working on three flagship utility projects: ShibaGotchi, a crypto based game, where you can earn $SHIBD while playing and discover this amazing new world. A decentralized exchange (DEX) and NFT marketplace called OpenShibaDollar."
+}, {
+    "currency": {
+        "symbol": "$AF-PresaleDAO",
+        "name": "AF-PresaleDAO"
+    },
+    "kyc": true,
+    "socialLinks": {
+        "telegram": "https://t.me/ApeFund/",
+        "twitter": "https://twitter.com/ApeFundOfficial/",
+        "website": "https://presaledao.apefund.co/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true
+    },
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/#/launchpad/0x705f649B1Cc3b7CbEAb468e307A8A7E6F3132BDE?chain=BSC/",
+        "presaleDate": "2022-01-12",
+        "softcap": "50 BNB",
+        "hardcap": "100 BNB"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0xd0141096DA823f0663873305FA34Ce4E1b72a1aD",
+    "logo": "https://spywolf.network/assets/project/logo/af-presaledao.png",
+    "votes": 13,
+    "releaseDate": "2022-01-12",
+    "OtherCompanyAudit": {
+        "auditLink": "https://github.com/SpyWolfNetwork/Smart_Contract_Audits/blob/main/January/AF-PresaleDAO.pdf",
+        "companyName": "RoyalProof"
+    },
+    "tag": "VERIFIED",
+    "description": "The Ape Fund is a PRIVATE INVESTMENT COMMUNITY for Crypto Investors to come together and collaborate on investment decisions.  The APE FUND has it’s own TOKEN, and is the driving force behind the various Sub-Funds it will roll out, including this one."
+}, {
+    "currency": {
+        "symbol": "$DIVI",
+        "name": "Divine Inu"
+    },
+    "socialLinks": {
+        "telegram": "https://t.me/DivineInuCrypto",
+        "twitter": "twitter.com/DivineInu",
+        "website": "https://divineinucrypto.com/",
+        "discord": "string"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": true,
+        "isAma": false,
+        "isAudit": true
+    },
+    "kyc": false,
+    "approvalStatus": "APPROVED",
+    "status": "NOT LAUNCHED",
+    "address": "0x32C04e0dBffaBe8A43Dd6881D8aecED44A981c8c",
+    "logo": "https://spywolf.network/assets/project/logo/divineinu.png",
+    "votes": 16,
+    "releaseDate": "2022-01-12",
+    "OtherCompanyAudit": {
+        "auditLink": "https://github.com/SpyWolfNetwork/Smart_Contract_Audits/blob/main/January/Divine%20Inu.pdf",
+        "companyName": "RoyalProof"
+    },
+    "tag": "VERIFIED",
+    "description": "Divine INU's native token will be used to vote on future product development, while also earning passive income from reflections as well as dividend payouts from the fund.\nThe value of Divine Inu will derive from multiple sources, but will be primarily driven by the Community, Metaverse presence (NFT) and the Divine Fund."
+}, {
+    "currency": {
+        "symbol": "$SABRE",
+        "name": "SabreCat"
+    },
+    "socialLinks": {
+        "telegram": "http://t.me/SabreCatGroup",
+        "twitter": "https://twitter.com/BSCSabreCat",
+        "website": "https://www.sabrecattoken.com/"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": true
+    },
+    "kyc": false,
+    "presaleInfo": {
+        "presaleLink": "https://www.pinksale.finance/#/launchpad/0xad7eC984B39DE9050171e4c73a802cF89b9110F7?chain=BSC",
+        "presaleDate": "2022-01-13",
+        "softcap": "50 BNB",
+        "hardcap": "50 BNB"
+    },
+    "approvalStatus": "APPROVED",
+    "status": "LAUNCHED",
+    "address": "0xa363D498d69202ddAf562FBa0d79C074610C04E9",
+    "logo": "https://spywolf.network/assets/project/logo/sabrecat.png",
+    "votes": 48,
+    "releaseDate": "2022-01-15",
+    "OtherCompanyAudit": {
+        "auditLink": "https://github.com/SpyWolfNetwork/Smart_Contract_Audits/blob/main/February/SabreCat_0xa363D498d69202ddAf562FBa0d79C074610C04E9.pdf",
+        "companyName": "RoyalProof"
+    },
+    "savingTime": "2022-02-17T12:49:38.846Z",
+    "tag": "VERIFIED",
+    "description": "SabreCat is a BSC token that rewards its holders BUSD and gives back to the animal community. Donations will be made at each major milestone. $25K+ with charities chosen by our holders!!!!! A community driven meme token at its core but with our charity focus there is real-life use-case to this low cap Gem!!! Our vision includes customised NFT collectibles and maximising our brand and meme potential with targeted marketing. Join our community!!!"
+}]

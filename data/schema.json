@@ -1,0 +1,56 @@
+{
+    "presaleInfo": {
+        "link": "string",
+        "releaseDate": "string",
+        "hardcap": "string",
+        "presaleDate": "string",
+        "presaleLink": "string",
+        "softcap": "string"
+    },
+    "royalProofAudit": {
+        "certificateOfTrustURL": "string",
+        "certificateOfTrustGif": "string"
+    },
+    "OtherCompanyAudit": {
+        "auditLink": "string",
+        "companyName": "string"
+    },
+    "currency": {
+        "symbol": "string",
+        "name": "string",
+        "decimals": 0,
+        "tokenType": "string"
+    },
+    "socialLinks": { 
+        "telegram": "string",
+        "twitter": "string",
+        "website": "string",
+        "discord": "string"
+    },
+    "category": {
+        "isScam": false,
+        "isPotencialScam": false,
+        "isRecentlyAdded": false,
+        "isFeature": false,
+        "isAma": false,
+        "isAudit": false,
+        "kyc": false
+    },
+    "description": "string",
+    "trustLevel": "string",
+    "deployedDate": "string",
+    "releaseDate": "string",
+    "tag": "any",
+    "scamReason": [],
+    "scamReasonTooltip": "string",
+    "address": "string",
+    "logo": "string",
+    "isVerified": false,
+    "votes": 0,
+    "scamDate": "string",
+    "AMADate": "any",
+    "AMALink": "string",
+    "savingTime": "string",
+    "status": "string",
+    "approvalStatus": "string"
+}

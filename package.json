@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "royalproofapi",
   "version": "1.0.0",
   "description": "",
   "main": "built/server.js",
@@ -7,17 +7,24 @@
     "start": "node built/server.js",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "api",
+    "kyc",
+    "audit",
+    "royalproof"
+  ],
+  "author": "Alhassan Matarwy",
   "license": "ISC",
   "dependencies": {
+    "@moralisweb3/evm-utils": "^2.7.4",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
-    "mongoose": "^6.7.0",
+    "moralis": "^2.7.4",
     "typescript": "^4.8.4"
   },
   "devDependencies": {
