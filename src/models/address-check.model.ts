@@ -2,7 +2,7 @@
 export interface Currency {
     symbol: string;
     name: string;
-    decimals: number;
+    decimals: string;
     tokenType: string;
 }
 

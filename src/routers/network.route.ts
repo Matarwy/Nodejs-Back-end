@@ -410,7 +410,7 @@ networkRoutes.get('/token/:id',asynceHandler(
 
 networkRoutes.get('/tokeninfo/:id',asynceHandler(
     async (req,res)=>{
-        await Moralis.start({apiKey: 'NW9IlLza8agS6PA4Wjwn5sk9oHRonArQNRKMZYdFaVop2wdTfuLduuY6DYMw4FHK',});
+        await Moralis.start({apiKey: 'FGePo2URsh8SkpeascUIopcNZASG3rhY2j4ji9LctJViGGRtyJNvPSwAzGKcBtRi',});
         for(let i=0;i<chains.length;i++){
             const chain = chains[i].chain;
             const addresses = [req.params.id];
@@ -419,13 +419,13 @@ networkRoutes.get('/tokeninfo/:id',asynceHandler(
                 chain,
             });
             let token = tokenResponse.toJSON()
-            if(token[0].token.symbol !== undefined && token[0].token.symbol !== ''){
+            if(token[0]?.symbol !== undefined && token[0]?.symbol !== ''){
                 let tokenInfo = <AddressCheckResponseModel>{
                     contractType: "TOKEN",
                     currency: <Currency>{
-                        name: token[0].token.name,
-                        symbol: token[0].token.symbol,
-                        decimals: token[0].token.decimals,
+                        name: token[0]?.name,
+                        symbol: token[0]?.symbol,
+                        decimals: token[0]?.decimals,
                         tokenType: chains[i].tokenType,
                     }
                 }
