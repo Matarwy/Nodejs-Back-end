@@ -410,7 +410,6 @@ networkRoutes.get('/token/:id',asynceHandler(
 
 networkRoutes.get('/tokeninfo/:id',asynceHandler(
     async (req,res)=>{
-        await Moralis.start({apiKey: 'FGePo2URsh8SkpeascUIopcNZASG3rhY2j4ji9LctJViGGRtyJNvPSwAzGKcBtRi',});
         for(let i=0;i<chains.length;i++){
             const chain = chains[i].chain;
             const addresses = [req.params.id];

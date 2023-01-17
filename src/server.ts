@@ -4,6 +4,7 @@ import bodyParser from "body-parser"
 import adminRoutes from "./routers/admin.router";
 import networkRoutes from "./routers/network.route";
 import submitRoutes from "./routers/submit.route";
+import Moralis from "moralis";
 
 const app = express();
 const port = process.env.PORT || 3030;
@@ -31,6 +32,10 @@ app.get('/', function(req, res){
     res.send('Go ahead, make my day');
 });
 
-app.listen(port, () => {
-    console.log(`Server is running on port ${port}`)
+Moralis.start({
+    apiKey: 'FGePo2URsh8SkpeascUIopcNZASG3rhY2j4ji9LctJViGGRtyJNvPSwAzGKcBtRi'
+}).then(() => {
+    app.listen(port, () => {
+        console.log(`Server is running on port ${port}`)
+    })
 })
