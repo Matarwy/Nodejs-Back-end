@@ -95,6 +95,7 @@ networkRoutes.get('/audited',asynceHandler(
                             auditedProjects.content.Items.push(item);
                         }
                     }
+                    auditedProjects.content.Items.reverse();
                     auditedProjects.content.Count = projects.length;
                     auditedProjects.content.ScannedCount = auditedProjects.content.Items.length;
                     res.send(auditedProjects);
@@ -154,6 +155,7 @@ networkRoutes.get('/trusted',asynceHandler(
                             featuerProjects.content.Items.push(item);
                         }
                     }
+                    featuerProjects.content.Items.reverse();
                     featuerProjects.content.Count = projects.length;
                     featuerProjects.content.ScannedCount = featuerProjects.content.Items.length;
                     res.send(featuerProjects);
@@ -209,6 +211,7 @@ networkRoutes.get('/upcomings',asynceHandler(
                             upcomingsProjects.content.Items.push(item);
                         }
                     }
+                    upcomingsProjects.content.Items.reverse();
                     upcomingsProjects.content.Count = projects.length;
                     upcomingsProjects.content.ScannedCount = upcomingsProjects.content.Items.length;
                     res.send(upcomingsProjects);
@@ -264,6 +267,7 @@ networkRoutes.get('/amas',asynceHandler(
                             amasProjects.content.Items.push(item);
                         }
                     }
+                    amasProjects.content.Items.reverse();
                     amasProjects.content.Count = projects.length;
                     amasProjects.content.ScannedCount = amasProjects.content.Items.length;
                     res.send(amasProjects);
@@ -319,6 +323,7 @@ networkRoutes.get('/scam',asynceHandler(
                             scamProjects.content.Items.push(item);
                         }
                     }
+                    scamProjects.content.Items.reverse();
                     scamProjects.content.Count = projects.length;
                     scamProjects.content.ScannedCount = scamProjects.content.Items.length;
                     res.send(scamProjects);
@@ -374,6 +379,7 @@ networkRoutes.get('/not_audited',asynceHandler(
                             not_auditedProjects.content.Items.push(item);
                         }
                     }
+                    not_auditedProjects.content.Items.reverse();
                     not_auditedProjects.content.Count = projects.length;
                     not_auditedProjects.content.ScannedCount = not_auditedProjects.content.Items.length;
                     res.send(not_auditedProjects);
