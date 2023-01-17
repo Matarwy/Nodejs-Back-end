@@ -74,6 +74,7 @@ submitRoutes.post("/", asynceHandler(async (req, res) => {
         releaseDate: req.body.item.releaseDate,
         description: req.body.item.description,
         category: req.body.item.category,
+        tag: "UNVERIFIED",
     }
     if(req.body.item.presaleInfo !== undefined){
         token.presaleInfo = req.body.item.presaleInfo;
