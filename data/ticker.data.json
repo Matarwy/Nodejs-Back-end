@@ -1,67 +1,34 @@
-{
-    "resultArray": [{
-        "address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
-        "symbol": "BSL",
-        "increase": 0,
-        "priceToday": 0.1,
-        "priceYesterday": 0.00021717393723779223,
-        "logo": "https://spywolf.network/assets/project/logo/banksocial.png",
-        "numberOfDigits": 5
-    }, {
-        "address": "0xf729f4d13a9c9556875d20bacf9ebd0bf891464c",
-        "symbol": "BUSDX",
-        "increase": 0.44254315994849247,
-        "priceToday": 0.00048575069816701803,
-        "priceYesterday": 0.00048360104167787784,
-        "logo": "https://spywolf.network/assets/project/logo/busdx.png",
-        "numberOfDigits": 7
-    }, {
-        "address": "0x7f4f3bc4a5634454398580b9112b7e493e2129fa",
-        "symbol": "KODI",
-        "increase": 0,
-        "priceToday": 3.991894094685304e-7,
-        "priceYesterday": 3.991894094685304e-7,
-        "logo": "https://spywolf.network/assets/project/logo/kodi.png",
-        "numberOfDigits": 7
-    }, {
-        "address": "0x7efb55d9ac57b23cc6811c9068db3cf83cbdfe39",
-        "symbol": "NSI",
-        "increase": -0.04119585773431087,
-        "priceToday": 3.820732113760553e-9,
-        "priceYesterday": 3.822306097126547e-9,
-        "logo": "https://spywolf.network/assets/project/logo/nsights.png",
-        "numberOfDigits": 5
-    }, {
-        "address": "0xB51499F983A8B186Ea2FEf4074e3A93DcC9CA355",
-        "symbol": "SAFEST",
-        "increase": 0,
-        "priceToday": 0.00014806220520976616,
-        "priceYesterday": 0.00014806220520976616,
-        "logo": "https://spywolf.network/assets/project/logo/safufide.png",
-        "numberOfDigits": 12
-    }, {
-        "address": "0xC2D0f6b7513994A1Ba86CEf3AAc181a371A4CA0c",
-        "symbol": "SPY",
-        "increase": 0,
-        "priceToday": 0.000001929534787057525,
-        "priceYesterday": 0.000001929534787057525,
-        "logo": "https://spywolf.network/assets/project/logo/spywolf.png",
-        "numberOfDigits": 5
-    }, {
-        "address": "0xc003f5193cabe3a6cbb56948dfeaae2276a6aa5e",
-        "symbol": "TRUBGR",
-        "increase": -1.0038915689259638,
-        "priceToday": 4.497899750214692e-9,
-        "priceYesterday": 4.543053786585839e-9,
-        "logo": "https://spywolf.network/assets/project/logo/trubadger.png",
-        "numberOfDigits": 5
-    }, {
-        "address": "0xfAE5a913fAc73Ef8ED647e53dc42d2fEBc9eA6c9",
-        "symbol": "XEEB",
-        "increase": 0,
-        "priceToday": 1.0828890616219392e-10,
-        "priceYesterday": 1.0828890616219392e-10,
-        "logo": "https://spywolf.network/assets/project/logo/xeeb.png",
-        "numberOfDigits": 10
-    }]
-}
+[
+    {
+        "symbol": "BTC",
+        "logo": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=024",
+        "numberOfDigits": 5,
+        "link" : "https://bitcoin.org/",
+        "address" : "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "tokenType" : "BEP20"
+    },
+    {
+        "symbol": "ETH",
+        "logo": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+        "numberOfDigits": 5,
+        "link" : "https://ethereum.org/en/",
+        "address" : "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "tokenType" : "BEP20"
+    },
+    {
+        "symbol": "BNB",
+        "logo": "https://cryptologos.cc/logos/bnb-bnb-logo.svg?v=024",
+        "numberOfDigits": 5,
+        "link" : "https://www.binance.com/en",
+        "address" : "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "tokenType" : "BEP20"
+    },
+    {
+        "symbol": "Matic",
+        "logo": "https://cryptologos.cc/logos/polygon-matic-logo.svg?v=024",
+        "numberOfDigits": 5,
+        "link" : "https://polygon.technology/",
+        "address" : "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+        "tokenType" : "BEP20"
+    }
+]

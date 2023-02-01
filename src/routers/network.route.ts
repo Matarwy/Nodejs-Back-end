@@ -45,11 +45,33 @@ networkRoutes.get('/force_update',asynceHandler(
 ));
 networkRoutes.get('/ticker',asynceHandler(
     async (req,res)=>{    
-        fs.readFile('data/ticker.data.json','utf-8',(err,data)=>{
+        fs.readFile('data/ticker.data.json','utf-8',async (err,data)=>{
             if(!err){
                 if(res.statusCode==200){
                     let projects=JSON.parse(data);
-                    res.send(projects);
+                    let ticker: { symbol: string; link: string; logo: string; numberOfDigits: number; price: number}[] = [];
+                    for(let i=0;i<projects.length;i++){
+                        try{
+                            await Moralis.EvmApi.token.getTokenPrice({
+                                address: projects[i]?.address,
+                                chain: EvmChain.BSC,
+                            }).then((response) => {
+                                let item = {
+                                    symbol: projects[i].symbol,
+                                    link: projects[i].link,
+                                    logo: projects[i].logo,
+                                    numberOfDigits: projects[i].numberOfDigits,
+                                    price: response.result.usdPrice,
+                                }
+                                ticker.push(item);
+                            }).catch((error) => {
+                                console.log(error);
+                            });
+                        }catch(err){
+                            console.log(err);
+                        }
+                    }
+                    res.send(ticker);
                 }else{
                     res.send("status code is" + res.statusCode);
                 }
