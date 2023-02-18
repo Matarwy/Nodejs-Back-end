@@ -1,17 +1,3 @@
-{"ids":156749,"cost":[],"count":2,"banner":[
-    {
-        "id":1,
-        "startDate":"2019-10-01T00:00:00.000Z",
-        "endDate":"2020-01-01T00:00:00.000Z",
-        "logoLink":"https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
-        "advistorName":"CoinMarketCap",
-        "product":"CoinMarketCap"
-    },{
-        "id":2,
-        "startDate":"2019-10-01T00:00:00.000Z",
-        "endDate":"2020-01-01T00:00:00.000Z",
-        "logoLink":"https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
-        "advistorName":"CoinMarketCap",
-        "product":"CoinMarketCap"
-    }
-]}
+[
+
+]
