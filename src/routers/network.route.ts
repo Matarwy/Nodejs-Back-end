@@ -43,6 +43,23 @@ networkRoutes.get('/force_update',asynceHandler(
         })
     }
 ));
+networkRoutes.get('/banners',asynceHandler(
+    async (req,res)=>{
+        fs.readFile('data/banners.data.json','utf-8',(err,data)=>{
+            if(!err){
+                if(res.statusCode==200){
+                    let banners=JSON.parse(data);
+                    res.send(banners);
+                }else{
+                    res.send("status code is" + res.statusCode);
+                }
+            }else{
+                res.send(err.message);
+                console.log(err);
+            }
+        })
+    }
+));
 networkRoutes.get('/ticker',asynceHandler(
     async (req,res)=>{    
         fs.readFile('data/ticker.data.json','utf-8',async (err,data)=>{
