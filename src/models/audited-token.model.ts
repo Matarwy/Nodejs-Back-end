@@ -43,6 +43,9 @@ export interface AuditedTokenItemModel {
     tag: string;
     description: string;
     presaleInfo: PresaleInfo;
+    level: string;
+    trustLevel: string;
+    
 }
 
 export interface Content {
