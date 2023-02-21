@@ -128,8 +128,9 @@ networkRoutes.get('/audited',asynceHandler(
                                 OtherCompanyAudit: projects[i].OtherCompanyAudit,
                                 RoyalProofAudit: projects[i].RoyalProofAudit,
                                 tag: projects[i].tag,
-                                presaleInfo: projects[i].presaleInfo
-
+                                presaleInfo: projects[i].presaleInfo,
+                                trustLevel: projects[i].trustLevel,
+                                level: projects[i].level
                             }
                             auditedProjects.content.Items.push(item);
                         }
